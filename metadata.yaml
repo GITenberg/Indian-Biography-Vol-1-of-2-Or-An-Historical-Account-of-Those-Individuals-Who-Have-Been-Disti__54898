@@ -1,5 +1,8 @@
 _repo: Indian-Biography-Vol-1-of-2-Or-An-Historical-Account-of-Those-Individuals-Who-Have-Been-Disti__54898
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54898-h/images/cover.jpg
 creator:
   author:
     agent_name: Thatcher, B. B. (Benjamin Bussey)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47694'
     url: http://www.gutenberg.org/2009/agents/47694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54898#Indian-Biography-Vol-1-of-2-Or-An-Historical-Account-of-Those-Individuals-Who-Have-Been-Disti_
 gutenberg_issued: '2017-06-12'
 gutenberg_type: Text
 identifiers:
